@@ -1,16 +1,11 @@
-# garden1
+# Project -title
+explain your project here
+## Members
+list out your member ID and name.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instruction
+You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:
+- Edit readme file that briefly explains your project and details of members.​ 
+- Create folder structure and some source code to prepare for development
+- Decide what features to roll out and who is responsible for it.​ Create branches for each feature. Explain each feature in Readme file in their own branch​ 
+- Create Docker file for your deployment of your application 
